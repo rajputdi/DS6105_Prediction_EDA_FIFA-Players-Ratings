@@ -1,8 +1,6 @@
 # FIFA EDA and Player Rating Prediction
 
 ### Author: Divyesh Rajput  
-NUID: 002788618  
-
 ---
 
 ## Project Overview
